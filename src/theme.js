@@ -1,3 +1,4 @@
+/* eslint-disable prettier/prettier */
 const theme = {
   colors: {
     primary: '#6200ee',
